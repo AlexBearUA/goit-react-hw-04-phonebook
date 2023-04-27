@@ -1,0 +1,10 @@
+.Filter {
+  width: 300px;
+  margin: 0 auto 30px auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.Filter input {
+  height: 25px;
+}
